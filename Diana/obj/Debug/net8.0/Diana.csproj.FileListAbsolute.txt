@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\bin\Debug\net8.0\Diana.exe
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\bin\Debug\net8.0\Diana.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\bin\Debug\net8.0\Diana.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\bin\Debug\net8.0\Diana.dll
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\bin\Debug\net8.0\Diana.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.sourcelink.json
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.dll
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\refint\Diana.dll
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\Diana.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\TeamCoding\Diana\obj\Debug\net8.0\ref\Diana.dll
