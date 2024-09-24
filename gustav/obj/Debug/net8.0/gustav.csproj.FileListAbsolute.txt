@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\TeamCoding\gustav\bin\Debug\net8.0\gustav.exe
+C:\Users\gusta\Desktop\TeamCoding\gustav\bin\Debug\net8.0\gustav.deps.json
+C:\Users\gusta\Desktop\TeamCoding\gustav\bin\Debug\net8.0\gustav.runtimeconfig.json
+C:\Users\gusta\Desktop\TeamCoding\gustav\bin\Debug\net8.0\gustav.dll
+C:\Users\gusta\Desktop\TeamCoding\gustav\bin\Debug\net8.0\gustav.pdb
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.AssemblyInfo.cs
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.sourcelink.json
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.dll
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\refint\gustav.dll
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.pdb
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\gustav.genruntimeconfig.cache
+C:\Users\gusta\Desktop\TeamCoding\gustav\obj\Debug\net8.0\ref\gustav.dll

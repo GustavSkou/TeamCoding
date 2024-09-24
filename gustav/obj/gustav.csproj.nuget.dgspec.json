@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\teamcoding\\gustav\\gustav.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\TeamCoding\\gustav\\gustav.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\teamcoding\\gustav\\gustav.csproj": {
+    "C:\\Users\\gusta\\Desktop\\TeamCoding\\gustav\\gustav.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\teamcoding\\gustav\\gustav.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\TeamCoding\\gustav\\gustav.csproj",
         "projectName": "gustav",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\teamcoding\\gustav\\gustav.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\TeamCoding\\gustav\\gustav.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\teamcoding\\gustav\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\TeamCoding\\gustav\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
